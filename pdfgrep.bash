@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env bash
 
 # pdfgrep.sh <pattern> [directory or pdf path]
 
